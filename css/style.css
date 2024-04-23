@@ -628,6 +628,14 @@ footer .wave#wave4{
         text-align: center;
         margin-top: 30px;
     }
+     .section-principal{
+        background: url("../img/img11.jpg") no-repeat top center;
+        background-size: cover;
+        width: 100%;
+        height: calc(100vh);
+        background-attachment: fixed;
+        /*background-position: top;*/
+    }
     /*SECTION 1*/
     .section1 {        
          padding: 60px 0px; 
